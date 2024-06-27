@@ -24,7 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Raúl Lleida"
   pronouns         : # example: "she/her"  
-  bio              : "CTF player |HTB lover |Linux and cybersecurity enthusiast. "
+  bio              :  "| CTF player
+                         HTB lover 
+                         Linux and cybersecurity enthusiast. "
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
