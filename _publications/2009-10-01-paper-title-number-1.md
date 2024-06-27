@@ -14,7 +14,7 @@ The contents above will be part of a list of publications, if the user clicks th
 
 ´´sasa´´
 
-´´´´ bash
+´´´bash
 echo "funciona?"
-´´´´
+´´´
 
