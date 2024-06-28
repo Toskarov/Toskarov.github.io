@@ -1,6 +1,7 @@
 ---
 title: 'Mi first blog post'
-date: 2199-01-01
+date: {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+#date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 excerpt: "<img src='/images/mstile-310x150.png'>"
 tags:
