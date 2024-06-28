@@ -17,6 +17,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
+    #url: /cv/
     url: /PDFs/CV_RAUL_LL_ENG.pdf
     
  # - title: "Guide"
