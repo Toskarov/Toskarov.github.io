@@ -21,7 +21,7 @@ repository               : "toskarov/toskarov.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Raul-Ll.JPG"
   name             : "Raúl Lleida"
   pronouns         : # "he/him"  
   bio              : "CTF player, HTB lover, Linux and cybersecurity enthusiast."
