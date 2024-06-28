@@ -1,3 +1,4 @@
+# remember that, all links after me were enabled
 # main links links
 main:
 #  - title: "Publications"
@@ -16,7 +17,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /PDFs/CV_RAUL_LL_ENG.pdf
     
  # - title: "Guide"
  #   url: /markdown/

@@ -148,7 +148,7 @@ include:
   - _pages
   - files
 exclude:
-  # I try to hidden some Pages
+  # I try to hide markdown.md
   - "_pages/markdown.md"
   - "*.sublime-project"
   - "*.sublime-workspace"
