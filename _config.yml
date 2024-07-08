@@ -8,12 +8,17 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Raúl Ll. Portfolio"
+title                    : "Raúl Ll."
 title_separator          : "-"
-name                     : &name "Raúl Lleida"
-description              : &description "personal description"
+name                     : &name "Raúl Lleida" # Your name
+description              : &description "Raúl Lleida" #This is the text that will appear in search engines.
 url                      : https://toskarov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog" about.md for default.
+# test
+# theme                    : minimal-mistakes-jekyll
+# minimal_mistakes_skin    : "sunrise"
+##
+
 repository               : "toskarov/toskarov.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,7 +30,7 @@ author:
   name             : "Raúl Lleida"
   pronouns         : # "he/him"  
   bio              : "CTF and HTB Player, Linux and cybersecurity enthusiast."
-  location         : "Terrassa, Barcelona"
+  location         : "Tarrassa, Barcelona"
   employer         : "Looking for a job"
   uri              : # URL
   email            : "ralleor94@gmail.com" 
@@ -337,3 +342,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
