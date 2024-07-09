@@ -11,6 +11,12 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+##esto lo he puesto yo
+gem "jekyll-include-cache", group: :jekyll_plugins
+gem "minimal-mistakes-jekyll"
+#gem "minima", "~> 2.5"
+##
+
 ##ESTO LO HE PUESTO YO
 #group :jekyll_plugins do
 #  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
@@ -32,4 +38,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
+  gem "jekyll", "~> 3.9.0"
 end

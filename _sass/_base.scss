@@ -14,12 +14,14 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  background-color: $solarized-yellow; // Esta línea establece el color de fondo
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
@@ -280,6 +282,7 @@ svg:not(:root) {
  */
 
 nav {
+
   ul {
     margin: 0;
     padding: 0;

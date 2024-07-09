@@ -18,6 +18,7 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.30s;
           animation-delay: 0.30s;
+  
 
   @include breakpoint($large) {
     padding-left: 1em;
@@ -93,7 +94,7 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: $primary-color; 
       }
 
       &.disabled {
@@ -175,7 +176,8 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  //background: $background-color;
+  background-color: $solarized-yellow; // Esta línea establece el color de fondo
 
   a {
     display: block;
@@ -203,7 +205,9 @@
   }
 
   .visible-links {
-    display: table;
+    //display: table;
+    float: right;
+    background-color: $solarized-yellow;
 
     li {
       display: table-cell;
