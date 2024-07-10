@@ -22,8 +22,8 @@
           animation-delay: 0.45s;
   //background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
-  background-color: $solarized-yellow; // Esta línea establece el color de fondo
-
+  //background-color: $solarized-yellow; // Esta línea establece el color de fondo
+  background-color:#f9e9bc; // me gusta más para el footer
 
   footer {
     @include clearfix;
