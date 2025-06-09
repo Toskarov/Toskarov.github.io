@@ -1,7 +1,8 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
+title: 'HTB -  Return'
+date: 2025-04-26
 permalink: /posts/2012/08/blog-post-1/
+excerpt: "<img src='/images/HTB-Return.png' width='300' height='200'>"
 tags:
   - cool posts
   - category1
@@ -9,6 +10,8 @@ tags:
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+
+## Buscar como poner nuevas páginas 
 
 Headings are cool
 ======
@@ -18,3 +21,4 @@ You can have many headings
 
 Aren't headings cool?
 ------
+
