@@ -35,5 +35,8 @@ Here you'll find a couple of tabs:
 	- It's not created yet, but here I will publish my step-by-step guides for [HTB's](https://www.hackthebox.com/) breached machines. I have completed a few machines and documented the process, but I aim to revisit and document them more thoroughly
 - **Certifications**
 	- This tab will take some time to be created. I'm seriously thinking about getting a certification, specifically the [Practical Junior Penetration Tester (PJPT)](https://certifications.tcm-sec.com/pjpt/). Also, I think it might be interesting to create a blog where I can write about what I'm learning, or when I get certified, write about what it means to me and give a couple of tips in case anyone needs them.
+
+	Hey I have Another one!
+	
 - **CV**
 	- Here you will find my Curriculum Vitae in case you want to take a look =)
