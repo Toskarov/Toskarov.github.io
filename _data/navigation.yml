@@ -1,5 +1,6 @@
 # remember that, all links after me were enabled
 # main links links
+# This points to _pages directory
 main:
 #  - title: "Publications"
 #    url: /publications/
@@ -12,10 +13,16 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+  
+  - title: "Certificates"
+    url: /Certificates/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+#  - title: "Blog Posts"
+#    url: /year-archive/
+  
+  - title: "HTB"
+    url: /HTB/ #it's a copy of the year-archive
+  
   - title: "CV"
     #url: /cv/
     url: /PDFs/CV_RAUL_LL_ENG.pdf

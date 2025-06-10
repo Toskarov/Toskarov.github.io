@@ -211,6 +211,11 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+ #esto lo he puesto yo
+  certifications:
+    output: true
+    permalink: /:collection/:path/
+  ##
   talks:
     output: true
     permalink: /:collection/:path/
