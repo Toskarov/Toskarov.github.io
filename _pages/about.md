@@ -25,15 +25,15 @@ Yet, I still feel I need to keep learning and improving. That's why I started th
 
 ## What you'll find here
 Here you'll find a couple of tabs:
-- **Portfolio**
+- **[Portfolio](https://toskarov.github.io/portfolio/)**
 	- Where I will publish topics related to cybersecurity
-- **Blog**
-	- Where I will publish topics related to systems or anything else could be useful to have stored
+<!-- - **Blog** -->
+<!--	- Where I will publish topics related to systems or anything else could be useful to have stored -->
 - **Scripts**
-	- Here I want to publish the scripts I create. While it's true that [GitHub](www.github.com) exist for this purpose, here I can provide a more extensive and casual explanation of the code. 
-- **HTB**
-	- It's not created yet, but here I will publish my step-by-step guides for [HTB's](https://www.hackthebox.com/) breached machines. I have completed a few machines and documented the process, but I aim to revisit and document them more thoroughly
-- **Certifications**
+	- Here I want to publish the scripts I create. While it's true that [GitHub](https://github.com/toskarov/) exist for this purpose, here I can provide a more extensive and casual explanation of the code. 
+- **[HTB](https://toskarov.github.io/HTB/)**
+	- Here, I publish my step-by-step guides for [HTB's](https://www.hackthebox.com/) breached machines. I have completed a few machines and documented the process, and I hope this documentation will be useful to you.
+- **[Certifications](https://toskarov.github.io/Certificates/)**
 	- This tab will take some time to be created. I'm seriously thinking about getting a certification, specifically the [Practical Junior Penetration Tester (PJPT)](https://certifications.tcm-sec.com/pjpt/). Also, I think it might be interesting to create a blog where I can write about what I'm learning, or when I get certified, write about what it means to me and give a couple of tips in case anyone needs them.
-- **CV**
+- **[CV](https://toskarov.github.io/PDFs/CV_RAUL_LL_ENG.pdf)**
 	- Here you will find my Curriculum Vitae in case you want to take a look =)
