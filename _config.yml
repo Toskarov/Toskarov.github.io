@@ -25,7 +25,7 @@ author:
   name             : "Raúl Lleida"
   pronouns         : # "he/him"  
   bio              : "CTF and HTB Player, Linux and cybersecurity enthusiast."
-  location         : "Tarrassa, Barcelona"
+  location         : "Mollet del Vallès, Barcelona"
   employer         : "Looking for a job"
   uri              : # URL
   email            : "ralleor94@gmail.com" 
@@ -211,8 +211,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
- #esto lo he puesto yo
+ #Esto lo he puesto yo
+ #Añadir las páginas que quieras mostrar
   certifications:
+    output: true
+    permalink: /:collection/:path/
+  forensic:
     output: true
     permalink: /:collection/:path/
   ##
@@ -276,7 +280,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _forensic
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:

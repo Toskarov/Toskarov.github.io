@@ -23,6 +23,9 @@ main:
   - title: "HTB"
     url: /HTB/ #it's a copy of the year-archive
   
+  - title: "Forensic"
+    url: /Forensic/
+  
   - title: "CV"
     #url: /cv/
     url: /PDFs/CV_RAUL_LL_ENG.pdf

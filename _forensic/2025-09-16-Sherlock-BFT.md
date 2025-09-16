@@ -1,21 +1,13 @@
 ---
-title: 'HTB -  Return'
-date: 2025-08-24
-permalink: /HTB/:name/ #Esto hace que se muestre la url real
+title: 'Sherlock -  BFT'
+date: 2025-09-16
+permalink: /Forensic/:name/ #Esto hace que se muestre la url real
 excerpt: "<img src='/images/HTB-Return.png' width='300' height='200'>"
+collection: portfolio
 tags:
-  - nmap
-  - crackmapexec
-  - HTB
-  - netexec
-  - netexec
-  - smb 
-  - evil-winrm  
-  - whatweb 
-  - icacls 
-  - net
-  - scexe
-  - netcat
+- MfteCMD
+- TimeLineExplorer
+- HxD hex editor
 ---
 
 Let's begin this new machine *(Return - 10.10.11.108)* scanning the ports with NMAP
