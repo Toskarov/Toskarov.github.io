@@ -2,7 +2,7 @@
 title: 'HTB -  Return'
 date: 2025-08-24
 permalink: /HTB/:name/ #Esto hace que se muestre la url real
-excerpt: "<img src='/images/HTB-Return.png' width='300' height='200'>"
+excerpt: "<img src='/images/HTB/HTB-Return/HTB-Return.png' width='300' height='200'>"
 tags:
   - nmap
   - crackmapexec
